@@ -1,7 +1,7 @@
 import 'package:get/get.dart';
 import 'package:login_firebase/app/routes/app_routes.dart';
 import 'package:login_firebase/app/ui/android/home_screen.dart';
-import 'package:login_firebase/app/ui/android/initial_page.dart';
+import 'package:login_firebase/app/ui/android/splash_screen/view/initial_page.dart';
 import 'package:login_firebase/app/ui/android/login_page.dart';
 
 class AppPages {
